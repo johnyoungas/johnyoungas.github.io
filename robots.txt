@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnyoungas.github.io/sitemap.xml.gz
